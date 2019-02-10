@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258878281709",
+    "firebase_url": "https://firelearn-a3cdf.firebaseio.com",
+    "project_id": "firelearn-a3cdf",
+    "storage_bucket": "firelearn-a3cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258878281709:android:c6d754b8ad5b3dfa",
+        "android_client_info": {
+          "package_name": "com.himanshu.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258878281709-l5941aidvmnq2l8bbss35rt65urr6l34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himanshu.mynotes",
+            "certificate_hash": "3c7a8f7d5dd325a910440b738f6c3e4948e905c5"
+          }
+        },
+        {
+          "client_id": "258878281709-a4m8sih6899q7kk8qkvhvq0fr8nlng8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5EYVj8NRQypsy_8ocDMGl4VymZP2dVUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258878281709-a4m8sih6899q7kk8qkvhvq0fr8nlng8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
